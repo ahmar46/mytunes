@@ -1,1 +1,1 @@
-### This is a landing pag
+### This is a landing page
