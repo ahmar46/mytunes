@@ -1,1 +1,1 @@
-### This is a landing page of a Music strea
+### This is a landing page of a Music stream
