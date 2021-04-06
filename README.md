@@ -1,3 +1,3 @@
 ### This is a landing page of a Music streaming Website.
 
-### Technologies Used : HTML, C
+### Technologies Used : HTML, CS
