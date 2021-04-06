@@ -1,3 +1,3 @@
 ### This is a landing page of a Music streaming Website.
 
-### Technologies Used : HTML, CSS, JavaScr
+### Technologies Used : HTML, CSS, JavaScri
