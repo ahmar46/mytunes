@@ -2,4 +2,4 @@
 
 ### Technologies Used : HTML, CSS, JavaScript.
 
-### Find me on Instagram - @electrif
+### Find me on Instagram - @electrify
