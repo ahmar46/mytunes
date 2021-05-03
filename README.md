@@ -1,4 +1,4 @@
-### This is a landing page of a Music streaming Website like i.
+### This is a landing page of a Music streaming Website like it.
 
 ### Technologies Used : HTML, CSS, JavaScript.
 
