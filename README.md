@@ -1,4 +1,4 @@
-### This is a landing page of a Music streaming Website like it.
+### This is a landing page of a Music streaming Website like itu.
 
 ### Technologies Used : HTML, CSS, JavaScript.
 
